@@ -1,2 +1,1 @@
-# odin-recipes
-My favorite recipes 
+The first Website will contain 4 of my most liked dishes. It's made of very basic HTML - but there will be kin of an interesting twist. All the recipes will be availble in both ominvore and vegan versions.
